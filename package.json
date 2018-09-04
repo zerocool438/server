@@ -1,5 +1,8 @@
 {
   "name": "my-screeps-world",
   "version": "0.0.1",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "screeps": "^3.0.0"
+  }
 }

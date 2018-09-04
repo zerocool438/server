@@ -1,0 +1,51 @@
+Loading mods from "E:\lzc\server\mods.json"
+Connecting to storage
+Starting CLI server
+STEAM_KEY environment variable found, disabling native authentication
+Connecting to Steam Web API
+CLI listening on localhost:21026
+Starting game server (protocol version 13)
+SockJS v0.3.19 bound to "/socket"
+Game server listening on 0.0.0.0:21025
+GET /socket/info 5ms 200
+GET /socket/354/0dtp9_ko/websocket 4ms (unfinished)
+Running cronjob 'sendNotifications'
+Running cronjob 'roomsForceUpdate'
+Running cronjob 'genPowerBanks'
+Running cronjob 'genInvaders'
+Running cronjob 'purgeTransactions'
+Running cronjob 'recreateNpcOrders'
+Running cronjob 'calcMarketStats'
+Sign in: undefined (c02adb90bf70848), IP=172.16.41.30, steamid=76561198031667032
+GET /socket/info 0ms 200
+GET /socket/851/nshpzd6j/websocket 1ms (unfinished)
+Running cronjob 'roomsForceUpdate'
+Running cronjob 'roomsForceUpdate'
+Unhandled rejection: Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (E:\lzc\server\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (E:\lzc\server\node_modules\express\lib\response.js:170:12)
+    at ServerResponse.json (E:\lzc\server\node_modules\express\lib\response.js:267:15)
+    at E:\lzc\server\node_modules\q-json-response\q-json-response.js:17:14
+    at _rejected (E:\lzc\server\node_modules\q\q.js:864:24)
+    at E:\lzc\server\node_modules\q\q.js:890:30
+    at Promise.when (E:\lzc\server\node_modules\q\q.js:1142:31)
+    at Promise.promise.promiseDispatch (E:\lzc\server\node_modules\q\q.js:808:41)
+Unhandled rejection: Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (E:\lzc\server\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.json (E:\lzc\server\node_modules\express\lib\response.js:264:10)
+    at E:\lzc\server\node_modules\q-json-response\q-json-response.js:17:14
+    at _rejected (E:\lzc\server\node_modules\q\q.js:864:24)
+    at E:\lzc\server\node_modules\q\q.js:890:30
+    at Promise.when (E:\lzc\server\node_modules\q\q.js:1142:31)
+    at Promise.promise.promiseDispatch (E:\lzc\server\node_modules\q\q.js:808:41)
+    at E:\lzc\server\node_modules\q\q.js:624:44
+Running cronjob 'sendNotifications'
+Running cronjob 'roomsForceUpdate'
+Running cronjob 'roomsForceUpdate'
+Running cronjob 'roomsForceUpdate'
+Running cronjob 'sendNotifications'
+Running cronjob 'roomsForceUpdate'

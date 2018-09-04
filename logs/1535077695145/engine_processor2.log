@@ -1,0 +1,6 @@
+Loading mods from "E:\lzc\server\mods.json"
+Connecting to storage
+Storage connection lost { Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+Connecting to storage

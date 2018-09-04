@@ -1,0 +1,18 @@
+Loading mods from "E:\lzc\server\mods.json"
+Starting storage server
+Storage listening on 21027
+[127.0.0.1:56217] Incoming connection
+[127.0.0.1:56218] Incoming connection
+[127.0.0.1:56219] Incoming connection
+[127.0.0.1:56221] Incoming connection
+[127.0.0.1:56222] Incoming connection
+[127.0.0.1:56221] Connection error: read ECONNRESET
+[127.0.0.1:56221] Connection closed
+[127.0.0.1:56219] Connection error: read ECONNRESET
+[127.0.0.1:56219] Connection closed
+[127.0.0.1:56217] Connection error: read ECONNRESET
+[127.0.0.1:56217] Connection closed
+[127.0.0.1:56218] Connection error: read ECONNRESET
+[127.0.0.1:56218] Connection closed
+[127.0.0.1:56222] Connection error: read ECONNRESET
+[127.0.0.1:56222] Connection closed

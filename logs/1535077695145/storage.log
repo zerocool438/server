@@ -1,0 +1,37 @@
+Loading mods from "E:\lzc\server\mods.json"
+Starting storage server
+Storage listening on 21027
+[127.0.0.1:65050] Incoming connection
+[127.0.0.1:65051] Incoming connection
+[127.0.0.1:65060] Incoming connection
+[127.0.0.1:65069] Incoming connection
+[127.0.0.1:65071] Incoming connection
+[127.0.0.1:65069] Connection error: read ECONNRESET
+[127.0.0.1:65069] Connection closed
+[127.0.0.1:58199] Incoming connection
+FATAL ERROR: NewSpace::Rebalance Allocation failed - process out of memory
+ 1: 000000013F93BAED
+ 2: 000000013FF8EC35
+ 3: 000000013FF8EB88
+ 4: 000000013FFF8B5D
+ 5: 000000013FE79900
+ 6: 000000013FE78D2B
+ 7: 000000013FE77C31
+ 8: 000000013FB92C15
+ 9: 000000013FD277CF
+10: 000000013FB8DAFB
+11: 000000013FFAD913
+12: 000000013F8B4434
+13: 000000013F91656B
+14: 000000013F91752E
+15: 00000149BABB4FC6
+Loading mods from "E:\lzc\server\mods.json"
+Starting storage server
+Storage listening on 21027
+[127.0.0.1:58649] Incoming connection
+[127.0.0.1:58646] Incoming connection
+[127.0.0.1:58648] Incoming connection
+[127.0.0.1:58647] Incoming connection
+[127.0.0.1:58686] Incoming connection
+[127.0.0.1:58686] Connection error: read ECONNRESET
+[127.0.0.1:58686] Connection closed

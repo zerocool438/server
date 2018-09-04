@@ -1,0 +1,8 @@
+Loading mods from "E:\lzc\server\mods.json"
+Connecting to storage
+Terrain shared buffer size: 357500
+Source Keeper error SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at global._init.global._start (<runtime>:16114:45)
+    at (<isolated-vm boundary>)
+    at make (E:\lzc\server\node_modules\@screeps\driver\lib\runtime\make.js:180:34)

@@ -1,0 +1,16 @@
+Loading mods from "E:\lzc\server\mods.json"
+Connecting to storage
+Starting CLI server
+STEAM_KEY environment variable found, disabling native authentication
+Connecting to Steam Web API
+CLI listening on localhost:21026
+Starting game server (protocol version 13)
+SockJS v0.3.19 bound to "/socket"
+Game server listening on 0.0.0.0:21025
+Running cronjob 'sendNotifications'
+Running cronjob 'roomsForceUpdate'
+Running cronjob 'genPowerBanks'
+Running cronjob 'genInvaders'
+Running cronjob 'purgeTransactions'
+Running cronjob 'recreateNpcOrders'
+Running cronjob 'calcMarketStats'

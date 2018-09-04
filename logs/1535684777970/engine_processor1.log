@@ -1,0 +1,13 @@
+Loading mods from "E:\lzc\server\mods.json"
+Connecting to storage
+FATAL ERROR: Committing semi space failed. Allocation failed - process out of memory
+ 1: 000000013F9FBAED
+ 2: 000000014004EC35
+ 3: 000000014004EB88
+ 4: 000000013FF39588
+ 5: 000000013FF37C31
+ 6: 000000013FC4FD05
+ 7: 000000013FCDD08A
+ 8: 00000103DCE043C1
+Loading mods from "E:\lzc\server\mods.json"
+Connecting to storage

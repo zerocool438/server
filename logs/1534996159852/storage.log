@@ -1,0 +1,29 @@
+Loading mods from "E:\lzc\server\mods.json"
+Starting storage server
+Storage listening on 21027
+[127.0.0.1:49884] Incoming connection
+[127.0.0.1:49928] Incoming connection
+[127.0.0.1:49948] Incoming connection
+[127.0.0.1:49950] Incoming connection
+[127.0.0.1:49975] Incoming connection
+TypeError: fun is not a function
+    at Resultset.find (E:\lzc\server\node_modules\lokijs\src\lokijs.js:2904:17)
+    at Resultset.findAnd (E:\lzc\server\node_modules\lokijs\src\lokijs.js:2664:14)
+    at Resultset.find (E:\lzc\server\node_modules\lokijs\src\lokijs.js:2726:25)
+    at Collection.removeWhere (E:\lzc\server\node_modules\lokijs\src\lokijs.js:4880:22)
+    at dbRequest (E:\lzc\server\node_modules\@screeps\storage\lib\db.js:239:45)
+    at Proto.apply (E:\lzc\server\node_modules\dnode-protocol\index.js:123:13)
+    at Proto.handle (E:\lzc\server\node_modules\dnode-protocol\index.js:99:19)
+    at D.dnode.handle (E:\lzc\server\node_modules\dnode\lib\dnode.js:140:21)
+    at D.dnode.write (E:\lzc\server\node_modules\dnode\lib\dnode.js:106:22)
+    at Socket.ondata (_stream_readable.js:639:20)
+[127.0.0.1:49975] Connection error: read ECONNRESET
+[127.0.0.1:49975] Connection closed
+[127.0.0.1:49948] Connection error: read ECONNRESET
+[127.0.0.1:49948] Connection closed
+[127.0.0.1:49928] Connection error: read ECONNRESET
+[127.0.0.1:49928] Connection closed
+[127.0.0.1:49884] Connection error: read ECONNRESET
+[127.0.0.1:49884] Connection closed
+[127.0.0.1:49950] Connection error: read ECONNRESET
+[127.0.0.1:49950] Connection closed
